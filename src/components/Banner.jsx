@@ -17,7 +17,7 @@ const Banner = () => {
         </p>
 
         {/* call to action Btn */}
-        <div className='flex justify-center lg:justify-start'>
+        <div className='relative flex justify-center lg:justify-start'>
           <button className='bg-yellow-600 hover:bg-yellow-700 text-black font-medium transition-colors rounded-full shadow-lg border-4 border-yellow-800 hover:border-yellow-700 px-6 py-3 sm:px-4 sm:py-2 md:px-6 md:py-3 lg:px-8 lg:py-4 text-lg'>
             Order Now
           </button>

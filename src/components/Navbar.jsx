@@ -30,7 +30,7 @@ return (
             className="text-white text-3xl md:text-lg lg:text-4xl font-extrabold flex items-center"
             style={{ fontFamily: "'lobster',cursive" }}
           >
-            <FaCoffee className="mr-2 text-yellow-300" />
+            <FaCoffee className="mr-2 text-yellow-300 " />
             café Royale
           </a>
         </div>
@@ -59,7 +59,7 @@ return (
             className="flex items-center lg:py-3 px-4 md:px-6 py-2 md:py-1.5 bg-gradient-to-r from-yellow-400 to-yellow-600 text-white rounded-full shadow-2xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300 font-bold text-sm md:text-sm"
             style={{ fontFamily: "'Montserrat,sans-serif" }}
           >
-            <FaCoffee className="mr-2" />
+            <FaCoffee className="mr-2 animate-pulse" />
             Order Now
           </a>
           <a
