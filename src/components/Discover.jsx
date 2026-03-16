@@ -16,7 +16,7 @@ const Discover = () => {
             Bean Scene is a coffee shop that provide you with quality coffee that helps boost your productivity and builds your mood. Having a cup of coffee is good, but having a cup of real coffee is greater. There is no doubt that you will enjoy this coffee more than any other you have ever tasted.
           </p>
           <div className='relative group'>
-            <img src={Title} alt="Img" className=' absolute -translate-x-1 bottom-6 group-hover:rotate-[20deg] group-hover:scale-150 group-hover:translate-x-2 transition-all duration-300 z-10' style={{width:'30px',height:'30px'}}/>
+            <img src={Title} alt="Img" className='max-sm:hidden absolute -translate-x-1 bottom-6 group-hover:rotate-[20deg] group-hover:scale-150 group-hover:translate-x-2 transition-all duration-300 z-10' style={{width:'30px',height:'30px'}}/>
             <button className='bg-[#4e342e] text-white py-3 px-6 rounded-full shadow-md group-hover:shadow-lg transform group-hover:translate-x-4 transition-all duration-300 ease-in-out group-hover:bg-[#3e2723] group-hover:text-white '>
               Learn More
             </button>
