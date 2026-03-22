@@ -35,7 +35,7 @@ const Testimonial = () => {
               </span>
             </div>
             <div className='space-y-2'>
-              <h3 className='text-2xl font-[playfair_Display] font-bold text-stone-900'>
+              <h3 className='text-2xl font-[playfair_Display] text-stone-900'>
                 Ayush
               </h3>
               <p className='text-sm text-stone-600 uppercase tracking-widest'>
@@ -64,7 +64,7 @@ const Testimonial = () => {
               </span>
             </div>
             <div className='space-y-2'>
-              <h3 className='text-2xl font-[playfair_Display] font-bold text-stone-900'>
+              <h3 className='text-2xl font-[playfair_Display] text-stone-900'>
                 cafeLatto
               </h3>
               <p className='text-sm text-stone-600 uppercase tracking-widest'>
