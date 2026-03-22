@@ -24,7 +24,7 @@ const Card = ({ bg, iconBg, icon, alt, title, text, borderColor, titleColor, tex
 
 const AboutUs = () => {
   return (
-    <div className='min-h-screen py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-[antiquewhite] to-[wheat]'>
+    <div id='about' className='min-h-screen py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-[antiquewhite] to-[wheat]'>
       <div className='max-w-7xl mx-auto text-center mb-16 flex flex-col items-center'>
         <img src={CB} alt="Coffee Beans" className='w-16 h-16 mb-4'/>
         <h1 className='text-3xl sm:text-4xl md:text-5xl font-serif text-[saddlebrown] mb-4'>

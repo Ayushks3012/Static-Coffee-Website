@@ -38,7 +38,7 @@ const Menu = () => {
   ];
 
   return (
-    <div className="min-h-screen py-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
+    <div id="menu" className="min-h-screen py-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
       <div className="max-w-7xl mx-auto relative">
         <div className="text-center mb-16 relative">
           <h2 className="relative inline-block text-3xl sm:text-4xl md:text-3xl lg:text-5xl [font-family:'Homemade_Apple',cursive] drop-shadow-md font-bold text-amber-900 mb-4">
